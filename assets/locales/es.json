@@ -1,0 +1,28 @@
+{
+    "title": "Compuesto Nutricional de Supervivencia",
+    "subtitle": "Fórmula nutricional avanzada para asegurar el rendimiento físico y mental en escenarios extremos.",
+    "goals": "Objetivos",
+    "goal_1": "Brindar soporte nutricional completo en emergencias y situaciones extremas, sin importar género o edad.",
+    "goal_2": "Preservar la energía metabólica, claridad mental y estabilidad emocional.",
+    "goal_3": "Incrementar el estado de alerta mental y emocional.",
+    "goal_4": "Mitigar los efectos del estrés como ansiedad, apatía, letargo y depresión.",
+    "goal_5": "Utilizar compuestos solubles en polvo, con larga vida útil y fácil transporte.",
+    "goal_6": "Mantener el peso y costo al mínimo sin comprometer el valor nutricional.",
+    "goal_7": "Evitar excesos de nutrientes que puedan ser riesgosos junto con alimentación externa.",
+    "non_goals": "Qué No Es Objetivo",
+    "non_goal_1": "Formulaciones específicas por sexo, edad o condiciones clínicas.",
+    "composition": "Composición",
+    "composition_intro": "Cada ingrediente ha sido seleccionado según:",
+    "composition_criteria": "Biodisponibilidad comprobada, densidad nutricional y estabilidad en condiciones adversas.",
+    "composition_substitutable": "Se prefieren compuestos multifuncionales, aunque pueden reemplazarse por equivalentes.",
+    "sensitive": "Micronutrientes Sensibles",
+    "sensitive_intro": "Algunos nutrientes pueden ser perjudiciales si se consumen en exceso.",
+    "sensitive_warning": "La dosificación busca ser segura para quienes no han comido y también para quienes sí.",
+    "improvements": "Potenciales Mejoras",
+    "improvement_1": "Reemplazar ingredientes por opciones más ligeras, accesibles o locales con igual valor nutricional.",
+    "improvement_2": "Explorar compuestos con mejor estabilidad y absorción.",
+    "license": "Licencia",
+    "license_intro": "Este proyecto se distribuye bajo la Licencia Pública de Mozilla 2.0.",
+    "license_rights": "Puedes usar, modificar y distribuir siempre que mantengas la misma licencia."
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "header_technical_name": "Technical Name",
+    "header_dosage": "Dosage (g)",
+    "header_nutrients": "Nutrients Provided",
+    "header_estimate": "Estimated Nutrient Dosage",
+    "header_comments": "Additional Comments",
+    "comment_rhodiola": "Adaptogen for stress",
+    "comment_sodium": "Adjusted to avoid exceeding recommended intake",
+    "comment_potassium": "Corrected to reflect actual composition (~38%)",
+    "comment_calcium": "Corrected (was previously overestimated)",
+    "comment_phosphorus": "Corrected (was previously overestimated)",
+    "comment_vitamin_c": "Natural (acerola/camu-camu or synthetic)",
+    "comment_vitamin_d": "Safe and effective dose",
+    "comment_vitamin_k": "MK-7 form, more bioavailable",
+    "comment_iron": "Corrected (was previously underestimated)",
+    "comment_pea_protein": "85% protein by weight",
+    "comment_spirulina": "Complete natural food",
+    "comment_nutritional_yeast": "Increased to meet B vitamin needs without duplication",
+    "comment_carrot": "Replaces Moringa; natural source of vitamin A"
+  }
+  

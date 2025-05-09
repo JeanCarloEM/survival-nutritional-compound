@@ -1,0 +1,21 @@
+{
+    "header_technical_name": "Nombre Técnico",
+    "header_dosage": "Dosis (g)",
+    "header_nutrients": "Nutrientes Aportados",
+    "header_estimate": "Dosis Estimada de Nutrientes",
+    "header_comments": "Comentarios Adicionales",
+    "comment_rhodiola": "Adaptógeno para el estrés",
+    "comment_sodium": "Ajustado para no exceder el consumo recomendado",
+    "comment_potassium": "Corregido para reflejar composición real (~38%)",
+    "comment_calcium": "Corregido (anteriormente sobreestimado)",
+    "comment_phosphorus": "Corregido (anteriormente sobreestimado)",
+    "comment_vitamin_c": "Natural (acerola/camu-camu o sintético)",
+    "comment_vitamin_d": "Dosis segura y eficaz",
+    "comment_vitamin_k": "Forma MK-7, más biodisponible",
+    "comment_iron": "Corregido (anteriormente subestimado)",
+    "comment_pea_protein": "85% proteína en peso",
+    "comment_spirulina": "Alimento natural completo",
+    "comment_nutritional_yeast": "Aumentado para cubrir vitaminas B sin duplicación",
+    "comment_carrot": "Sustituye a la Moringa; fuente natural de vitamina A"
+  }
+  

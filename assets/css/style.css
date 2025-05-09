@@ -1,0 +1,84 @@
+/* Fonte principal */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+/* Título */
+h1#page-title {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+/* Tabela estilizada */
+table.dataTable tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+table.dataTable tbody tr:nth-child(even) {
+  background-color: #f1f3f5;
+}
+
+table.dataTable thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+/* Select de idioma */
+#language-selector {
+  min-width: 120px;
+}
+
+/* Área do README */
+#readme {
+  background-color: #ffffff;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+/* Responsivo */
+@media (max-width: 576px) {
+  h1#page-title {
+    font-size: 1.5rem;
+  }
+
+  #language-selector {
+    width: 100%;
+  }
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.table thead th {
+  background-color: #e9ecef;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f8f9fa;
+}
+
+#langSelector {
+  margin-bottom: 1rem;
+}
+
+section {
+  margin-top: 2.5rem;
+}
+
+hr {
+  border-top: 2px solid #dee2e6;
+}
+
+.badge {
+  margin-right: 0.5rem;
+}
