@@ -1,28 +1,41 @@
 {
-    "title": "Survival Nutritional Compound",
-    "subtitle": "Advanced nutritional formula designed to ensure physical and mental performance in extreme survival scenarios.",
-    "goals": "Objectives",
-    "goal_1": "Provide full nutritional support for emergencies and extreme conditions, regardless of gender or age.",
-    "goal_2": "Preserve metabolic energy, mental clarity, and emotional stability.",
-    "goal_3": "Enhance mental and emotional readiness.",
-    "goal_4": "Reduce the effects of stress such as anxiety, apathy, lethargy, and depression.",
-    "goal_5": "Use powder-based, soluble compounds with long shelf life and easy transport.",
-    "goal_6": "Keep weight and cost low without compromising nutritional value.",
-    "goal_7": "Avoid nutrient excesses that could pose risks when combined with external food sources.",
-    "non_goals": "What It Is Not",
-    "non_goal_1": "Formulations tailored to specific sexes, age groups, or clinical conditions.",
-    "composition": "Composition",
-    "composition_intro": "Each ingredient is selected based on:",
-    "composition_criteria": "Proven bioavailability, high nutrient density, and resilience in adverse conditions.",
-    "composition_substitutable": "Multifunctional ingredients are used for efficiency but can be replaced with equivalents.",
-    "sensitive": "Sensitive Micronutrients",
-    "sensitive_intro": "Some nutrients may pose health risks in excessive amounts.",
-    "sensitive_warning": "Doses are optimized to be safe for both fasting and recently-fed individuals.",
-    "improvements": "Areas for Improvement",
-    "improvement_1": "Replace ingredients with lighter, more accessible or local options with equivalent nutrition.",
-    "improvement_2": "Investigate compounds with greater stability and absorption.",
-    "license": "License",
-    "license_intro": "This project is released under the Mozilla Public License 2.0.",
-    "license_rights": "You may use, modify, and distribute it as long as changes remain under the same license."
+  "title": "🧭 Survival Nutritional Compound",
+  "subtitle": "Advanced nutritional blend to ensure physical and mental strength in extreme survival scenarios.",
+  "status": "Prototype",
+  "format": "Format: soluble powder",
+  "license_badge": "License: MPL-2.0",
+  "objectives_title": "Objectives",
+  "objectives": [
+    "Ensure complete nutritional support in emergencies and extreme situations, regardless of sex or age.",
+    "Preserve metabolic energy, mental clarity, and emotional stability.",
+    "Enhance mental and emotional readiness.",
+    "Mitigate the effects of stress, such as anxiety, apathy, lethargy, and depression.",
+    "Use powdered, soluble compounds with long shelf life and easy transport.",
+    "Maintain minimal weight and cost without compromising nutritional value.",
+    "Avoid excess nutrients that may pose risks when combined with other food intake."
+  ],
+  "not_objective_title": "What is not a goal",
+  "not_objective_list": [
+    "Formulations tailored for specific sexes, age groups, or medical conditions."
+  ],
+  "composition_title": "Composition",
+  "composition_text": "Each ingredient is selected based on proven bioavailability, ability to deliver multiple nutrients in small volume, and shelf stability without refrigeration. Multifunctional compounds (such as spirulina or nutritional yeast) are preferred, but may be replaced by more efficient alternatives.",
+  "sensitive_nutrients_title": "Sensitive Micronutrients",
+  "sensitive_nutrients_text": "Certain elements (such as sodium, iron, and vitamin A) can be risky in excess. Dosage must be sufficient for those without food access, yet safe for those who already ate.",
+  "improvements_title": "Potential Improvements",
+  "improvements_list": [
+    "Replace ingredients with lighter, more accessible, or locally available options while keeping nutrients equivalent.",
+    "Explore new compounds with greater stability and absorption."
+  ],
+  "license_title": "License",
+  "license_text": "This project is licensed under the Mozilla Public License 2.0. You may use, modify, and redistribute it as long as you keep this license and share changes under the same terms.",
+  "license_link": "Learn more about MPL-2.0",
+  "table_title": "Nutritional Composition per Ingredient",
+  "table_headers": {
+    "name": "Technical Name",
+    "dosage": "Dosage (g)",
+    "nutrients": "Provided Nutrients",
+    "estimated": "Estimated Nutrient Doses",
+    "notes": "Additional Comments"
   }
-  
+}

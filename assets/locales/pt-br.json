@@ -1,28 +1,41 @@
 {
-    "title": "Composto Nutricional de Sobrevivência",
-    "subtitle": "Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência extremas.",
-    "goals": "Objetivos",
-    "goal_1": "Garantir suporte nutricional completo para emergências e situações extremas, independentemente de sexo ou faixa etária.",
-    "goal_2": "Preservar energia metabólica, clareza mental e estabilidade emocional.",
-    "goal_3": "Incrementar disposição mental e emocional.",
-    "goal_4": "Mitigar os impactos do estresse, como ansiedade, apatia, letargia e depressão.",
-    "goal_5": "Utilizar compostos solúveis em pó, com longa validade e fácil transporte.",
-    "goal_6": "Manter peso e custo mínimos, sem comprometer o valor nutricional.",
-    "goal_7": "Evitar excessos de nutrientes que possam representar risco em combinação com alimentação externa.",
-    "non_goals": "O que não é objetivo",
-    "non_goal_1": "Formulações específicas para sexo, faixas etárias ou condições clínicas.",
-    "composition": "Composição",
-    "composition_intro": "Cada ingrediente é selecionado com base em critérios de:",
-    "composition_criteria": "Biodisponibilidade comprovada, densidade nutricional e estabilidade em condições adversas.",
-    "composition_substitutable": "Compostos multifuncionais são preferidos, mas podem ser substituídos por alternativas equivalentes.",
-    "sensitive": "Micronutrientes Sensíveis",
-    "sensitive_intro": "Certos elementos podem ser prejudiciais se consumidos em excesso.",
-    "sensitive_warning": "A dosagem busca equilibrar segurança e eficácia para diferentes cenários de consumo.",
-    "improvements": "Potenciais de Melhoria",
-    "improvement_1": "Substituir ingredientes por versões mais leves, acessíveis ou locais, mantendo o mesmo perfil nutricional.",
-    "improvement_2": "Explorar compostos com maior estabilidade e absorção.",
-    "license": "Licença",
-    "license_intro": "Este projeto é distribuído sob a Mozilla Public License 2.0.",
-    "license_rights": "Você pode usar, modificar e distribuir, desde que mantenha a mesma licença."
+  "title": "🧭 Composto Nutricional de Sobrevivência",
+  "subtitle": "Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência extremas.",
+  "status": "Protótipo",
+  "format": "Formato: pó solúvel",
+  "license_badge": "Licença: MPL-2.0",
+  "objectives_title": "Objetivos",
+  "objectives": [
+    "Garantir suporte nutricional completo para emergências e situações extremas, independentemente de sexo ou faixa etária.",
+    "Preservar energia metabólica, clareza mental e estabilidade emocional.",
+    "Incrementar disposição mental e emocional.",
+    "Mitigar os impactos do estresse, como ansiedade, apatia, letargia e depressão.",
+    "Utilizar compostos solúveis em pó, com longa validade e fácil transporte.",
+    "Manter peso e custo mínimos, sem comprometer o valor nutricional.",
+    "Evitar excessos de nutrientes que possam representar risco em combinação com alimentação externa."
+  ],
+  "not_objective_title": "O que não é objetivo",
+  "not_objective_list": [
+    "Formulações específicas para sexo, faixas etárias ou condições clínicas."
+  ],
+  "composition_title": "Composição",
+  "composition_text": "Cada ingrediente é selecionado com base em critérios de biodisponibilidade comprovada, capacidade de fornecer múltiplos nutrientes com baixo volume e durabilidade sem refrigeração. Compostos multifuncionais (como spirulina ou levedura nutricional) são preferidos, mas podem ser substituídos por alternativas mais eficientes.",
+  "sensitive_nutrients_title": "Micronutrientes Sensíveis",
+  "sensitive_nutrients_text": "Certos elementos (como sódio, ferro e vitamina A) podem representar riscos se consumidos em excesso. A dosagem deve ser suficiente para quem não comeu nada no dia, mas segura para quem teve acesso a outros alimentos.",
+  "improvements_title": "Potenciais de Melhoria",
+  "improvements_list": [
+    "Substituir ingredientes por versões mais leves, acessíveis ou locais, mantendo os mesmos nutrientes.",
+    "Explorar novos compostos com maior estabilidade e absorção."
+  ],
+  "license_title": "Licença",
+  "license_text": "Este projeto é distribuído sob a Mozilla Public License 2.0. Você pode usar, modificar e redistribuir, desde que mantenha esta licença e compartilhe modificações no mesmo modelo.",
+  "license_link": "Saiba mais sobre a MPL-2.0",
+  "table_title": "Composição Nutricional por Ingrediente",
+  "table_headers": {
+    "name": "Nome Técnico",
+    "dosage": "Dosagem (g)",
+    "nutrients": "Nutrientes Fornecidos",
+    "estimated": "Dosagem Estimada dos Nutrientes",
+    "notes": "Comentários Adicionais"
   }
-  
+}
