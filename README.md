@@ -8,14 +8,15 @@
 
 ---
 
-## 🎯 Objetivos
+# Objetivos
 
-- ✅ Garantir **suporte nutricional completo** em situações extremas de média/longa duração (emergências, deslocamentos, isolamento, catástrofes, guerras), tanto quanto possível e independentemente de sexo ou faixa etária;
-- ✅ Preservar **energia metabólica, clareza mental e estabilidade emocional**;
-- ✅ Incrementar **disposição mental e emocional**;
-- ✅ Utilizar exclusivamente **compostos em pó ou solúveis**, com longa validade e fácil transporte;
-- ✅ Manter **peso e custo mínimos**, sem reduzir valor nutricional;
-- ✅ Evitar **excesso de nutrientes** que possam causar risco quando combinados com alimentação externa;
+- ✅ Garantir suporte nutricional completo para emergências e situações extremas, independentemente de sexo ou faixa etária.
+- ✅ Preservar energia metabólica, clareza mental e estabilidade emocional.
+- ✅ Incrementar disposição mental e emocional.
+- ✅ Mitigar os impactos do estresse, como ansiedade, apatia, letargia e depressão.
+- ✅ Utilizar compostos solúveis em pó, com longa validade e fácil transporte.
+- ✅ Manter peso e custo mínimos, sem comprometer o valor nutricional.
+- ✅ Evitar excessos de nutrientes que possam representar risco em combinação com alimentação externa.
 
 ## 🔧 O que não é objetivo
 - 🧬 Formulações específicas para **faixas etárias ou condições clínicas**.
