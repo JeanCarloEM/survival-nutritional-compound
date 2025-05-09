@@ -1,6 +1,6 @@
 # 🧭 Composto Nutricional de Sobrevivência
 
-> **Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência etremas.**
+> **Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência extremas.**
 
 ![Status](https://img.shields.io/badge/status-prototype-blue)
 ![Formato](https://img.shields.io/badge/formato-p%C3%B3%20e%20sol%C3%BAvel-lightgrey)
