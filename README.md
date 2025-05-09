@@ -19,7 +19,7 @@
 - ✅ Evitar excessos de nutrientes que possam representar risco em combinação com alimentação externa.
 
 ## 🔧 O que não é objetivo
-- 🧬 Formulações específicas para **faixas etárias ou condições clínicas**.
+- 🧬 Formulações específicas para **sexo, faixas etárias ou condições clínicas**.
 ---
 
 ## 🧪 Composição
