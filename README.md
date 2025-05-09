@@ -1,6 +1,6 @@
 # 🧭 Composto Nutricional de Sobrevivência
 
-> **Composto nutricional avançado para preservar a força física e mental em cenários de sobrevivência.**
+> **Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência etremas.**
 
 ![Status](https://img.shields.io/badge/status-prototype-blue)
 ![Formato](https://img.shields.io/badge/formato-p%C3%B3%20e%20sol%C3%BAvel-lightgrey)
@@ -10,12 +10,15 @@
 
 ## 🎯 Objetivos
 
-- ✅ Garantir **suporte nutricional completo** em situações extremas (emergências, deslocamentos, isolamento).
-- ✅ Preservar **energia metabólica, clareza mental e estabilidade emocional**.
-- ✅ Utilizar exclusivamente **compostos em pó ou solúveis**, com longa validade e fácil transporte.
-- ✅ Manter **peso e custo mínimos**, sem reduzir valor nutricional.
-- ✅ Evitar **excesso de nutrientes** que possam causar risco quando combinados com alimentação externa.
+- ✅ Garantir **suporte nutricional completo** em situações extremas de média/longa duração (emergências, deslocamentos, isolamento, catástrofes, guerras), tanto quanto possível e independentemente de sexo ou faixa etária;
+- ✅ Preservar **energia metabólica, clareza mental e estabilidade emocional**;
+- ✅ Incrementar **disposição mental e emocional**;
+- ✅ Utilizar exclusivamente **compostos em pó ou solúveis**, com longa validade e fácil transporte;
+- ✅ Manter **peso e custo mínimos**, sem reduzir valor nutricional;
+- ✅ Evitar **excesso de nutrientes** que possam causar risco quando combinados com alimentação externa;
 
+## 🔧 O que não é objetivo
+- 🧬 Formulações específicas para **faixas etárias ou condições clínicas**.
 ---
 
 ## 🧪 Composição
@@ -26,7 +29,7 @@ Cada ingrediente é selecionado com base em critérios de:
 - **Capacidade de oferecer múltiplos nutrientes com baixo volume.**
 - **Durabilidade em condições adversas (sem refrigeração).**
 
-Compostos multifuncionais (como *spirulina* ou *levedura nutricional*) são utilizados para otimizar densidade nutricional, reduzindo redundâncias sem perder eficácia.
+Compostos multifuncionais (como *spirulina* ou *levedura nutricional*) são utilizados para otimizar densidade nutricional, reduzindo redundâncias sem perder eficácia, mas podem ser substituídos por outras opções que se demonstrem mais eficientes.
 
 ---
 
@@ -42,8 +45,6 @@ mas sem ultrapassar limites seguros **para quem já consumiu algo naquele dia**.
 
 - 🔄 Substituir ingredientes por versões mais **leves, acessíveis ou locais**, mantendo os mesmos nutrientes.
 - 📦 Explorar novos compostos com **maior estabilidade e absorção**.
-- 🧬 Ajustar formulações específicas para **faixas etárias ou condições clínicas**.
-- 🌿 Incluir novos adaptógenos ou fibras funcionais, conforme disponibilidade e necessidade.
 
 ---
 
