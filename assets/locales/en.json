@@ -27,6 +27,9 @@
     "Replace ingredients with lighter, more accessible, or locally available options while keeping nutrients equivalent.",
     "Explore new compounds with greater stability and absorption."
   ],
+  "button": {
+    "download_csv": "Download .CSV"
+  },
   "license_title": "License",
   "license_text": "This project is licensed under the Mozilla Public License 2.0. You may use, modify, and redistribute it as long as you keep this license and share changes under the same terms.",
   "license_link": "Learn more about MPL-2.0",

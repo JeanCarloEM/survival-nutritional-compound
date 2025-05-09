@@ -18,6 +18,9 @@
   "not_objective_list": [
     "Formulações específicas para sexo, faixas etárias ou condições clínicas."
   ],
+  "button": {
+    "download_csv": "Download .CSV"
+  },
   "composition_title": "Composição",
   "composition_text": "Cada ingrediente é selecionado com base em critérios de biodisponibilidade comprovada, capacidade de fornecer múltiplos nutrientes com baixo volume e durabilidade sem refrigeração. Compostos multifuncionais (como spirulina ou levedura nutricional) são preferidos, mas podem ser substituídos por alternativas mais eficientes.",
   "sensitive_nutrients_title": "Micronutrientes Sensíveis",

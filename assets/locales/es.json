@@ -27,6 +27,9 @@
     "Reemplazar ingredientes por versiones más ligeras, accesibles o locales manteniendo los nutrientes.",
     "Explorar nuevos compuestos con mayor estabilidad y absorción."
   ],
+  "button": {
+    "download_csv": "Download .CSV"
+  },
   "license_title": "Licencia",
   "license_text": "Este proyecto se distribuye bajo la Licencia Pública de Mozilla 2.0. Puedes usarlo, modificarlo y distribuirlo, siempre que mantengas esta licencia y compartas las modificaciones bajo las mismas condiciones.",
   "license_link": "Más sobre la MPL-2.0",
