@@ -37,8 +37,8 @@ Compostos multifuncionais (como *spirulina* ou *levedura nutricional*) são util
 ## ⚠️ Micronutrientes Sensíveis
 
 Certos elementos (como **sódio, ferro e vitamina A**) podem representar riscos se consumidos em excesso.  
-🔎 **A dosagem foi ajustada para fornecer o suficiente a quem não tem acesso a alimentos**,  
-mas sem ultrapassar limites seguros **para quem já consumiu algo naquele dia**.
+🔎 **A dosagem deve se manter ajustada para fornecer o suficiente àqueles sem acesso a alimentos**,  
+mas sem ultrapassar limites seguros **para quem já consumiu algo no dia**.
 
 ---
 
