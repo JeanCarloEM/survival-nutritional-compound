@@ -1,76 +1,71 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>🧭 Survival Nutritional Compound</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" />
-    <link rel="stylesheet" href="assets/css/styles.css" />
-    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-    <script src="assets/js/i18n.js" defer></script>
-    <script src="assets/js/main.js" defer></script>
-  </head>
-  <body class="bg-white text-gray-800 font-sans p-4 md:p-8">
-    <header class="flex flex-col md:flex-row items-center justify-between py-4 mb-8 border-b border-gray-200">
-      <div>
-        <h1 class="text-2xl font-semibold text-gray-800">🧭 Survival Nutritional Compound</h1>
-        <p class="text-sm text-gray-500" data-i18n="header.subtitle">Open-source project for extreme nutrition support</p>
-      </div>
-      <a href="https://github.com/seuusuario/seurepositorio" target="_blank" class="text-sm text-gray-600 hover:text-black mt-2 md:mt-0 flex items-center space-x-1">
-        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M12 .5C5.4.5 0 5.9 0 12.5c0 5.3 3.4 9.8 8.2 11.4.6.1.8-.3.8-.6v-2.3c-3.3.7-4-1.4-4-1.4-.5-1.2-1.2-1.5-1.2-1.5-1-.7.1-.7.1-.7 1.1.1 1.7 1.1 1.7 1.1 1 .1.7 1.9 2.8 1.3.1-.8.4-1.4.7-1.7-2.7-.3-5.5-1.3-5.5-5.8 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.7.1 3 .8.8 1.2 1.9 1.2 3.2 0 4.5-2.9 5.5-5.6 5.8.4.3.8 1 .8 2.1v3.1c0 .3.2.7.8.6C20.6 22.3 24 17.8 24 12.5 24 5.9 18.6.5 12 .5z"/>
-        </svg>
-        <span class="underline">View on GitHub</span>
-      </a>
-    </header>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="title">🧭 Composto Nutricional de Sobrevivência</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
 
-    <div class="flex justify-center mb-8">
-      <a href="data/data.csv" download class="px-6 py-3 bg-blue-600 text-white text-sm font-medium rounded-lg shadow hover:bg-blue-700 transition-colors duration-200">
-        📥 <span data-i18n="button.download_csv">Download .CSV</span>
-      </a>
+  <!-- Cabeçalho -->
+  <header>
+    <div class="header-content">
+      <h1 id="title">🧭 Composto Nutricional de Sobrevivência</h1>
+      <p id="subtitle">Composto nutricional avançado para garantir a força física e mental em cenários de sobrevivência extremas.</p>
     </div>
+  </header>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="objectives.title">Objectives</h2>
-      <ul id="objectives" class="list-disc list-inside space-y-2 text-gray-700"></ul>
-    </section>
+  <!-- Objetivos -->
+  <section id="objectives-section">
+    <h2 id="objectives-title">Objetivos</h2>
+    <ul id="objectives"></ul>
+  </section>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="not_objective.title">What it’s not</h2>
-      <ul id="not_objective" class="list-disc list-inside space-y-2 text-gray-700"></ul>
-    </section>
+  <!-- O que não é objetivo -->
+  <section id="not-objective-section">
+    <h2 id="not-objective-title">O que não é objetivo</h2>
+    <ul id="not-objective-list"></ul>
+  </section>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="composition.title">Composition</h2>
-      <p class="text-gray-700 mb-4" data-i18n="composition.description"></p>
-    </section>
+  <!-- Composição -->
+  <section id="composition-section">
+    <h2 id="composition-title">Composição</h2>
+    <p id="composition-text">Cada ingrediente é selecionado com base em critérios de biodisponibilidade comprovada...</p>
+  </section>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="sensitive.title">Sensitive Micronutrients</h2>
-      <p class="text-gray-700" data-i18n="sensitive.description"></p>
-    </section>
+  <!-- Tabela com dados do CSV -->
+  <section id="table-section">
+    <h2 id="table-title">Composição Nutricional por Ingrediente</h2>
+    <table id="csv-table">
+      <thead>
+        <tr>
+          <th id="name-header">Nome Técnico</th>
+          <th id="dosage-header">Dosagem (g)</th>
+          <th id="nutrients-header">Nutrientes Fornecidos</th>
+          <th id="estimated-header">Dosagem Estimada dos Nutrientes</th>
+          <th id="notes-header">Comentários Adicionais</th>
+        </tr>
+      </thead>
+      <tbody id="csv-table-body"></tbody>
+    </table>
+  </section>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="improvements.title">Potential Improvements</h2>
-      <ul id="improvements" class="list-disc list-inside space-y-2 text-gray-700"></ul>
-    </section>
+  <!-- Licença -->
+  <section id="license-section">
+    <h2 id="license-title">Licença</h2>
+    <p id="license-text">Este projeto é distribuído sob a Mozilla Public License 2.0...</p>
+    <a href="https://www.mozilla.org/MPL/2.0/" id="license-link">Saiba mais sobre a MPL-2.0</a>
+  </section>
 
-    <section class="mb-12">
-      <h2 class="text-xl font-semibold mb-4" data-i18n="license.title">License</h2>
-      <p class="text-gray-700" data-i18n="license.description"></p>
-      <a href="https://www.mozilla.org/MPL/2.0/" target="_blank" class="text-blue-600 underline text-sm mt-2 inline-block" data-i18n="license.link">Learn more about MPL-2.0</a>
-    </section>
+  <!-- Botão de Download -->
+  <section id="download-section">
+    <button id="download-csv" onclick="window.location.href='/data/data.csv'">Download .CSV</button>
+  </section>
 
-    <section>
-      <h2 class="text-xl font-semibold mb-4" data-i18n="table.title">Nutritional Table</h2>
-      <div class="overflow-x-auto">
-        <table id="data-table" class="min-w-full table-auto border border-gray-300">
-          <thead class="bg-gray-100">
-            <tr id="table-headers" class="text-left text-sm text-gray-700"></tr>
-          </thead>
-          <tbody id="table-body" class="text-sm text-gray-800"></tbody>
-        </table>
-      </div>
-    </section>
-  </body>
+  <!-- Scripts -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/i18n.js"></script>
+
+</body>
 </html>
